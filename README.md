@@ -11,4 +11,4 @@ Type security event and click the enter button
 ![Image alt](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL/blob/30f5ad0bdc029b4c5533f55d003fd356a9f66537/Querying/Screenshot%202026-07-03%20032222.png)
 Type | Where Account == "for" and click the enter button
 ![Image alt](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL/blob/c254f256b7c39012d6f8ac84a8aa11bd1da42a51/Querying/Screenshot%202026-07-03%20032753.png)
-Type | Project, Account, Computer, IpAddress and click on RUN
+Type | Project, Account, Computer, IpAddress and click on Run
