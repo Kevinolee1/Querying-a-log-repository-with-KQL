@@ -4,8 +4,8 @@ is the process of searching, filtering, analyzing, and visualizing log data stor
 Go to log analytics and click on the log analytics that you created. 
 ![Image alt](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL/blob/993f332ef3d41772b2f255003563a3911f553b9f/Querying/Screenshot%202026-07-03%20030612.png)
 Click on logs and exit out of Queries hub.
-![Image alt](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL/blob/61fb5b8147a53574a186f105f8a67646bac14927/Querying/Screenshot%202026-07-03%20030825.png)
 ![Image alt](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL/blob/b64e961a825c87c868b7fbe0471119e060fa9b3a/Querying/Screenshot%202026-07-03%20030848.png)
+click on sample mode and change it to KQL mode.
 ![Image alt](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL/blob/b15af6c8c3770a08b5c0d0eb417d106a62515316/Querying/Screenshot%202026-07-03%20031049.png)
 ![Image alt](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL/blob/f4246e375def6a7e58f21fc93d6fa2b7a165831e/Querying/Screenshot%202026-07-03%20031116.png)
 ![Image alt](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL/blob/30f5ad0bdc029b4c5533f55d003fd356a9f66537/Querying/Screenshot%202026-07-03%20032222.png)
